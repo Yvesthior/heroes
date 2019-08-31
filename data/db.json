@@ -1,0 +1,11 @@
+{
+  "ids": {
+    "Hero": 4
+  },
+  "models": {
+    "Hero": {
+      "1": "{\"id\":1,\"name\":\"batman\",\"friend\":\"robin\",\"planet\":\"earth\",\"species\":\"human\"}",
+      "3": "{\"id\":3,\"name\":\"robin\",\"friend\":\"batman\",\"planet\":\"earth\",\"species\":\"himan humanoide\"}"
+    }
+  }
+}
